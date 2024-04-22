@@ -151,7 +151,7 @@ REST_FRAMEWORK = {
 
 #Esto permite que se comunique con el backend
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:8080",
+    "http://localhost:5173",
 ]
 
 REST_FRAMEWORK = {

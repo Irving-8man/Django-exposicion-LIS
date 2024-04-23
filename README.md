@@ -61,7 +61,7 @@ Y estas son las tecologías para la aplicación web con React [react-client](rea
     deactive
 
     #Instala las dependencias:
-    pip install django djangorestframework coreapi
+    pip install django djangorestframework coreapi django-cors-headers
   ```
 - APP React
   ```bash
